@@ -1,0 +1,9 @@
+{
+  "name": "gas-local-development",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/osawa-koki/gas-local-development.git",
+  "author": "osawa-koki <github@osawa.dev>",
+  "type": "module",
+  "license": "Apache-2.0"
+}
