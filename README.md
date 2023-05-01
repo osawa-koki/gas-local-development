@@ -2,6 +2,8 @@
 
 🍍🍍🍍 Claspを使用して`Google Apps Script`のローカル開発環境を構築するサンプル。  
 
+![成果物](./docs/img/fruit.gif)  
+
 ## 環境構築
 
 最初に<https://script.google.com/home/usersettings>にアクセスして、`Google Apps Script API`を有効にします。  
