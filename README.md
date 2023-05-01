@@ -32,6 +32,11 @@ clasp login
 | `clasp open` | Google Apps ScriptのウェブIDEを開きます。 |
 | `clasp create` | Google Apps Scriptのプロジェクトを作成します。 |
 
+## デプロイ
+
+GitHub Actionsに登録しているため、mainブランチにプッシュすると自動的にデプロイされます。  
+手動でデプロイする場合には、`clasp push`を実行してください。  
+
 ## 参考文献
 
 - <https://recruit.gmo.jp/engineer/jisedai/blog/google_apps_script_local_dev/>
