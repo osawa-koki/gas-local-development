@@ -28,6 +28,7 @@ clasp login
 | `clasp push` | ローカルのファイルをGoogle Apps Scriptにアップロードします。 |
 | `clasp pull` | Google Apps Scriptのファイルをローカルにダウンロードします。 |
 | `clasp open` | Google Apps ScriptのウェブIDEを開きます。 |
+| `clasp create` | Google Apps Scriptのプロジェクトを作成します。 |
 
 ## 参考文献
 
